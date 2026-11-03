@@ -1,1 +1,3 @@
 Hi, I’m Lillie, a biology student interested in microbiology, marine science, and microbial ecology. I’m interested in data science because biological research often involves large datasets, including DNA sequencing, population data, and environmental sampling. I’m hoping to build stronger data analysis skills that I can use in future research.
+
+Skills I'm Developing: I’ve learned some Python, but I still need more practice using it with actual data. I want to get better at cleaning up datasets and making graphs, especially for questions related to marine microbiology. I’m also working on figuring out which statistical methods make sense for a dataset and keeping track of my steps so someone else can follow what I did.
